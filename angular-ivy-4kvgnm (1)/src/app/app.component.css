@@ -1,0 +1,48 @@
+.main-navbar {
+  background-color: lightgray;
+  height: 70px;
+  align-items: center;
+}
+
+.section-1 {
+  background-color: aliceblue;
+  height: 50px;
+  text-align: -webkit-center;
+}
+
+.inputed-number {
+  text-align: center;
+  width: 50px;
+  border: 1px solid black;
+}
+
+.info {
+  font-size: 12px;
+}
+
+.section-2 {
+  background-color: aliceblue;
+  height: 100px;
+}
+
+.left-side {
+  border-right: 1px solid black;
+  height: 100px;
+  text-align: -webkit-center;
+}
+
+.input-field {
+  width: 50%;
+  text-align: end;
+}
+
+.check-btn {
+  font-size: 10px;
+  background: lightblue;
+  border-radius: 8px;
+  border: 1px solid lightblue;
+}
+
+.right-side {
+  align-self: center;
+}
